@@ -1,8 +1,9 @@
 ﻿using BepInEx;
 
-namespace H3VRMod
+namespace ButterHands.src
 {
 	[BepInPlugin(PluginInfo.GUID, PluginInfo.NAME, PluginInfo.VERSION)]
+	[BepInDependency("nrgill28.Sodalite")]
 	[BepInProcess("h3vr.exe")]
 	public class Plugin : BaseUnityPlugin
 	{
@@ -15,11 +16,6 @@ namespace H3VRMod
 		}
 
 		private void Awake()
-		{
-
-		}
-
-		private void Update()
 		{
 
 		}
