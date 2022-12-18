@@ -1,9 +1,9 @@
 {
-    "name": "Template Plugin",
-    "version_number": "0.1.0",
-    "dependencies": [
-        "nrgill28-HookGenPatcher_H3VR-1.2.3"
-    ],
-    "description": "Template plugin for H3VR.",
-    "website_url": "https://github.com/Maiq-The-Dude/H3VR.EmptyBepInEx"
+  "name": "ButterHands",
+  "version_number": "0.1.0",
+  "dependencies": [
+    "nrgill28-Sodalite-1.4.0"
+  ],
+  "description": "ButterHands.",
+  "website_url": "https://github.com/Maiq-The-Dude/H3VR.ButterHands"
 }
